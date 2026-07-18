@@ -136,8 +136,8 @@ LOW_BLINK_RATE_THRESHOLD = 10  # blinks/min flagging eye strain
 
 ## Team
 
-Built by Yash Seth (embedded systems + CV pipeline + hardware integration),
-with teammates covering the web platform and pitch deck.
+Technical side built by Yash Seth (embedded systems + CV pipeline + hardware integration).
+Pitch deck, business model, and website, built by Diya Deepak, Arwa Lokhandwala, and Ayaan
 
 ## License
 

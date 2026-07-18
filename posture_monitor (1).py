@@ -57,7 +57,7 @@ except ImportError:
 # ---------------------------------------------------------------------------
 SLOUCH_HOLD_SECONDS = 15       # how long bad posture must persist before triggering hardware
 WARNING_HOLD_SECONDS = 3       # earlier, softer warning threshold
-CVA_DROP_THRESHOLD_DEG = 8     # degrees below calibrated baseline counts as "slouching"
+CVA_DROP_THRESHOLD_DEG = 5     # degrees below calibrated baseline counts as "slouching"
 IPD_TOO_CLOSE_RATIO = 1.20     # interpupillary distance vs baseline; >20% wider = face too close to screen
 CALIBRATION_SECONDS = 3
 SERIAL_BAUD = 115200
